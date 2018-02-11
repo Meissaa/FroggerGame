@@ -7,9 +7,9 @@ that when the player collects all small frogs, he can sign up to the players' ra
 
 ## How to play
 
-Navigate using ⬆️ , ➡️, ⬇️ and ⬅️
+* Navigate using ⬆️ , ➡️, ⬇️ and ⬅️
 
-Quit game - Q
+* Quit game - Q
 
 
 ![frogger](https://user-images.githubusercontent.com/30875812/36076066-d0201d7e-0f57-11e8-8eff-8c92d7e5a283.png)
